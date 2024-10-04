@@ -9,3 +9,5 @@ Uma calculadora simples desenvolvida em Python que realiza operações básicas 
    git clone https://github.com/Davideveloper89/calculadora-
    pip install -r requirements.txt
    cd calculadora- 
+   python calculadora.py
+ 
