@@ -6,6 +6,6 @@ Uma calculadora simples desenvolvida em Python que realiza operações básicas 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Davideveloper89/calculadora
+   git clone https://github.com/Davideveloper89/calculadora-
    pip install -r requirements.txt
-   cd calculadora 
+   cd calculadora- 
